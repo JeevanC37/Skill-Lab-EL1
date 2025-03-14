@@ -10,7 +10,9 @@
 - Subset Sums ( Searching and Sorting )
 - Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ? ( Linked List )
 - Find the largest subtree sum in a tree ( Binary tree )
+  - https://drive.google.com/drive/folders/1JYvDw8kWneVn_RID1di_FjRiiQElFZPW?usp=drive_link
 - Check if a tree is BST or not ? ( Binary Search tree )
 - Minimum time required to rot all the oranges ( Stacks and Queues )
+  - https://drive.google.com/drive/folders/1L0EWJDD6WzUl11sWCSrlpm6lP3inp8xU?usp=drive_link
 ## Google drive link
 - https://drive.google.com/drive/folders/1angtYrHFkqYzpN0M8PnB60wl3urV57tW
