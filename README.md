@@ -10,7 +10,9 @@
 - Print all Subsequences of a String ( String )
    - https://drive.google.com/drive/folders/1uOt3pK_D6K0TE-ZSFHatuatzrrSt_xIG?usp=drive_link
 - Subset Sums ( Searching and Sorting )
+   - https://drive.google.com/drive/folders/1tZlU_W2Pv0We5zL7W6RlGC86Z4VBYZqW?usp=drive_link
 - Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ? ( Linked List )
+   - https://drive.google.com/drive/folders/1qQesOrk_zo-0b5Qz3syFx7FA5YvML4nv?usp=drive_link
 - Find the largest subtree sum in a tree ( Binary tree )
   - https://drive.google.com/drive/folders/1JYvDw8kWneVn_RID1di_FjRiiQElFZPW?usp=drive_link
 - Check if a tree is BST or not ? ( Binary Search tree )
